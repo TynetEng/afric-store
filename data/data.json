@@ -1,0 +1,157 @@
+{
+    "store": 
+        {
+            "electronics": [
+                {
+                    "id": 1,
+                    "type": "appliance",
+                    "name": "Freezer",
+                    "model": "Sonic",
+                    "price": 500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "skyrun.jpg"
+                },
+                {
+                    "id": 2,
+                    "type": "appliance",
+                    "name": "Freezer",
+                    "model": "Sonic",
+                    "price": 500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "skyrun.jpg"
+                }
+            ],
+            "phones": [
+                {
+                    "id": 1,
+                    "type": "Gadget",
+                    "name": "ANDROID PHONE",
+                    "model": "SAMSUNG",
+                    "price": 500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "samsung.jpg"
+                },
+                {
+                    "id": 2,
+                    "type": "Gadget",
+                    "name": "ANDROID PHONE",
+                    "model": "INFINIX",
+                    "price": 500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "samsung.jpg"
+                },
+                {
+                    "id": 3,
+                    "type": "Gadget",
+                    "name": "ANDROID PHONE",
+                    "model": "TECHNO",
+                    "price": 500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "samsung.jpg"
+                },
+                {
+                    "id": 4,
+                    "type": "Gadget",
+                    "name": "ANDROID PHONE",
+                    "model": "ITEL",
+                    "price": 500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "samsung.jpg"
+                },
+                {
+                    "id": 5,
+                    "type": "Gadget",
+                    "name": "IPAD",
+                    "model": "SAMSUNG IPAD A7",
+                    "price": 750,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "IPAD A7.webp"
+                },
+                {
+                    "id": 6,
+                    "type": "Gadget",
+                    "name": "IPAD",
+                    "model": "SAMSUNG IPAD S7",
+                    "price": 800,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "IPAD S7.webp"
+                },
+                {
+                    "id": 7,
+                    "type": "Gadget",
+                    "name": "IPAD",
+                    "model": "APPLE IPAD PRO 12",
+                    "price": 1000,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "RPO 12.jpeg"
+                },
+                {
+                    "id": 8,
+                    "type": "Gadget",
+                    "name": "IPAD",
+                    "model": "APPLE IPAD PRO 11",
+                    "price": 900,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "PRO 11.jpg"
+                },
+                {
+                    "id": 9,
+                    "type": "Gadget",
+                    "name": "SMART WATCH",
+                    "model": "APPLE SMART WATCH",
+                    "price": 500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "wristwatch.jpg"
+                }
+            ],
+            "laptop" : [
+                {
+                    "id": 1,
+                    "type": "Gadget",
+                    "name": "APPLE",
+                    "model": "MACBOOK PRO M1X",
+                    "price": 1500,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "Apple_16-inch_MacBook_Pro.webp"
+                },
+                {
+                    "id": 2,
+                    "type": "Gadget",
+                    "name": "APPLE",
+                    "model": "MACBOOK AIR",
+                    "price": 1400,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "mac-air.jpg"
+                },
+                {
+                    "id": 3,
+                    "type": "Gadget",
+                    "name": "APPLE",
+                    "model": "MACBOOK PRO",
+                    "price": 1450,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "mac-pro.jpeg"
+                },
+                {
+                    "id": 4,
+                    "type": "Gadget",
+                    "name": "HP",
+                    "model": "HP PAVILLION",
+                    "price": 950,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "hp-pavillion.jpeg"
+                },
+                {
+                    "id": 5,
+                    "type": "Gadget",
+                    "name": "HP",
+                    "model": "HP 15 TOUCHSCREEN",
+                    "price": 950,
+                    "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae rem ipsum porro dolor recusandae et temporibus mollitia quis, numquam itaque, ratione impedit nulla fuga id exercitationem sed, natus ab facere sapiente amet.",
+                    "image": "hp 15 touchscreen.jpeg"
+                }
+            ]
+            
+        }
+    
+}
